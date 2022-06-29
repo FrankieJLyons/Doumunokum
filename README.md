@@ -1,5 +1,5 @@
 # Doumunokum
-The book of the living
+The Book of the Living
 
 |English |Vremq   |Characters |
 |--------|--------|-----------|
